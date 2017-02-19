@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FEC107</color>
+    <color name="colorPrimaryDark">#FF9F00</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="blue">#3CA4F1</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!-- Menu item color -->
+    <color name="news_bg">#FEA98A</color>
+    <color name="request_bg">#8DCED0</color>
+    <color name="prayerwall_bg">#1EB9E7</color>
+    <color name="event_schedules_bg">#EC6B56</color>
+    <color name="photo_gallery_bg">#FF694E</color>
+    <color name="video_gallery_bg">#60AEA1</color>
+    <color name="sermons_bg">#AEDBE1</color>
+    <color name="daily_reading_bg">#44B49B</color>
+    <color name="about_church_bg">#94EBAC</color>
+
+    <color name="menu_label_bg">#8F000000</color>
+
+    <color name="toolbar_bg">#FEC107</color>
+    <color name="news_title">#757575</color>
+    <color name="news_item">#9E9E9E</color>
+
+    <color name="accent">#FF4081</color>
+
+    <item name="purple" type="color">#BBDEFB</item>
+    <item name="green" type="color">#B3E5FC</item>
+    <item name="orange" type="color">#B2EBF2</item>
+    <item name="red" type="color">#B2DFDB</item>
+    <item name="darkblue" type="color">#C8E6C9</item>
+    <item name="darkpurple" type="color">#ffcdd2</item>
+    <item name="darkgreen" type="color">#F8BBD0</item>
+    <item name="darkorange" type="color">#E1BEE7</item>
+    <item name="darkred" type="color">#D1C4E9</item>
+    <item name="darkred1" type="color">#C5CAE9</item>
+    <item name="darkred2" type="color">#F0F4C3</item>
+    <item name="darkred3" type="color">#FFE0B2</item>
+    <item name="darkred4" type="color">#FFCCBC</item>
+    <item name="darkred5" type="color">#D7CCC8</item>
+    <item name="darkred6" type="color">#CFD8DC</item>
+
+    <integer-array name="androidcolors">
+        <item>@color/blue</item>
+        <item>@color/purple</item>
+        <item>@color/green</item>
+        <item>@color/orange</item>
+        <item>@color/red</item>
+        <item>@color/darkblue</item>
+        <item>@color/darkpurple</item>
+        <item>@color/darkgreen</item>
+        <item>@color/darkorange</item>
+        <item>@color/darkred</item>
+        <item>@color/darkred1</item>
+        <item>@color/darkred2</item>
+        <item>@color/darkred3</item>
+        <item>@color/darkred4</item>
+        <item>@color/darkred5</item>
+        <item>@color/darkred6</item>
+    </integer-array>
+
+    <color name="transparent_color6">#60000000</color>
+    <color name="transparent_color8">#80000000</color>
+
+    <color name="gallery_title_color">#98af7c</color>
+    <color name="verify_btn">#cddc39</color>
+
+    <color name="login_btn">#00e676</color>
+    <color name="signup_btn">#ff6f00</color>
+    <color name="btn_commit">#8BC34A</color>
+
+</resources>

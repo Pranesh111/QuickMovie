@@ -1,0 +1,13 @@
+package materialtest.example.ritzipsy.quickmovie;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class QickMovieApp extends AppCompatActivity {
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_main);
+    }
+}
